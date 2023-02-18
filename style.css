@@ -38,6 +38,17 @@ html,body{
     
     
 }
+.end{
+    text-align: end;
+    font-style: italic;
+    font-size: 15px;
+    font-weight:  100px;
+    
+}
+.quotes{
+    font-size:30px ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 .textbg{
     background-color:  rgb(46, 42, 42);
     color:white;
